@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankur Bhardwaj
-- 💪 i create beautiful web application using react.js
+- 💪 I create beautiful web application using javascript. 
 - 🌱 I’m currently learning ThreeJs and WebGL
-- 📫 Come hang out with us on akrdesign04@gmail.com
+- 📫 Come hang out with me on akrdesign04@gmail.com
 
 <!---
 akrdesign/akrdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
